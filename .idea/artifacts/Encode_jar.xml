@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Encode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Encode_jar</output-path>
+    <root id="archive" name="Encode.jar">
+      <element id="module-output" name="Encode" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot-starter/3.0.4/jasypt-spring-boot-starter-3.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jasypt/jasypt/1.9.3/jasypt-1.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/ulisesbocchio/jasypt-spring-boot/3.0.4/jasypt-spring-boot-3.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
